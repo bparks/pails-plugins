@@ -1,0 +1,3 @@
+mongo_graph=https://github.com/bparks/pails-mongo-graph.git
+activerecord=https://github.com/bparks/pails-activerecord.git
+test_plugin=https://github.com/bparks/pails-test-plugin.git
