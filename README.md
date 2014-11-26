@@ -47,3 +47,14 @@ Notes on the .pails file
    without. If your plugin can still exist without a plugin, but with reduced functionality,
    do so and do not list the plugin as a dependency. Shoot for empty arrays (or very short
    arrays) whenever possible.
+
+Gotchas
+-------
+
+ * Throughout the inclusion and execution of each plugin, the working directory is the root
+   of the pails application. Don't change this (or, if you must, be sure to change it back).
+   Plugins that fail to be courteous to the system will be removed from the directory.
+ * Make sure there isn't another plugin that is similar to the one you're creating. If there
+   is and it doesn't provide the functionality you want, make your plugin extend the existing
+   plugin rather than duplicating functionality. Plugins that duplicate functionality will
+   be removed from the directory.
