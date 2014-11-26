@@ -27,11 +27,11 @@ Each plugin has the following characteristics:
    JSON spec to the letter -- double-quotes around all strings and keys, no line breaks in
    strings, etc.):
 
-    {
-      "name": "the_name_of_your_plugin",
-      "index": "index.php",
-      "deps": ["dependency1", "dependency2"]
-    }
+       {
+         "name": "the_name_of_your_plugin",
+         "index": "index.php",
+         "deps": ["dependency1", "dependency2"]
+       }
 
 Notes on the .pails file
 ------------------------
