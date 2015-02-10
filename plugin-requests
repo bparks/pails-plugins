@@ -1,0 +1,6 @@
+categories - extend nodes to be able to place them in categories
+tags - extend nodes to be able to have zero or more tags
+diags - add some diagnostic tools
+admin - add a simple admin interface loosely based on the module hierarchy.
+        should also provide a partial that defines an admin menu
+themes - allow a theme to be chosen to provide look & feel, rather than editing the layout and views
