@@ -4,7 +4,6 @@ diags - add some diagnostic tools
 admin - add a simple admin interface loosely based on the module hierarchy.
         should also provide a partial that defines an admin menu
 menu - name a collection of links that can be inserted into a layout, for instance
-file - provide a file upload mechanism
 contact - add a contact form that sends an email
 themes - allow a theme to be chosen to provide look & feel, rather than editing the layout and views
 auto_slug - automatically build the slug based on the title (requires js/css from plugins)
