@@ -1,6 +1,7 @@
 activerecord=https://github.com/bparks/pails-activerecord/archive/master.zip
 auth=https://github.com/bparks/pails-auth/archive/master.zip
 content=https://github.com/bparks/pails-content/archive/master.zip
+blog=https://github.com/bparks/pails-blog/archive/master.zip
 form_builder=https://github.com/bparks/pails-form-builder/archive/master.zip
 mongo_graph=https://github.com/bparks/pails-mongo-graph/archive/master.zip
 test_plugin=https://github.com/bparks/pails-test-plugin/archive/master.zip
