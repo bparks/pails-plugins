@@ -10,4 +10,3 @@ auto_slug - automatically build the slug based on the title (requires js/css fro
 wiki - really? it's the only thing that seems to be missing (cms, blog, ...)
 layout_override - depends on content; allows admins to specify a layout to use for a given path
         (or node type?)
-installer - provide a wizard that guides you through the install
